@@ -1,0 +1,25 @@
+
+.music-navhead.data-v-67e5d5c4 {
+	position: relative;
+	width: 100vw;
+	height: 75px;
+	font-size: 16px;
+	line-height: 80px;
+	text-align: center;
+	color: black;
+}
+.music-navhead-icon.data-v-67e5d5c4 {
+	display: flex;
+	justify-content: space-evenly;
+	align-items: center;
+	position: absolute;
+	left: 8px;
+	top: 26px;
+	width: 90px;
+	height: 30px;
+	line-height: 30px;
+	border-radius: 15px;
+	background-color: rgba(0, 0, 0, .5);
+	color: white;
+}
+

@@ -1,0 +1,6 @@
+{
+  "navigationStyle": "custom",
+  "usingComponents": {
+    "music-nav": "/components/MusicNavgation/MusicNavgation"
+  }
+}
